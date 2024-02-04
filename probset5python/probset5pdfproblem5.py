@@ -1,3 +1,4 @@
+#write a python program to convert a given algebric expression to postfix expression.
 inp = input('algebraic expr: ')
 
 def ins(stk, n):
